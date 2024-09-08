@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 I'm currently working as a Software Developer based in India<br>📚 I'm learning about system design and how to contribute to open source.<br>✉️ You can contact me at: nizaitaliya66@gmail.com<br>
+💻 I'm currently working as a Software Developer in India<br>📚 I'm learning about system design and how to contribute to open source.<br>✉️ You can contact me at: nizaitaliya66@gmail.com<br>
 
 
 ## 🌐 Socials:
